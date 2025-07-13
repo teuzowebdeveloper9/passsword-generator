@@ -7,4 +7,10 @@ export const AppStyles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'flex-start',
   },
+  text : {
+    fontWeight : 'bold',
+    color : 'gray',
+    fontSize : 24,
+    marginBottom : 20
+  }
 });
