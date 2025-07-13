@@ -6,8 +6,8 @@ import { Text, View } from "react-native";
 export default function Home(){
   return(
     <View >
-        <Text style={AppStyles.text} >Open up App.tsx to start working on your app!</Text>
-          <StatusBar style="auto" />
+        <Text style={AppStyles.text} >password generator</Text>
+          <StatusBar style="light" />
           <MainComponent />
     </View>
   )

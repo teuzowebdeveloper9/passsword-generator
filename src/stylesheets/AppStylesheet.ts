@@ -9,8 +9,8 @@ export const AppStyles = StyleSheet.create({
   },
   text : {
     fontWeight : 'bold',
-    color : 'gray',
-    fontSize : 24,
+    color : 'black',
+    fontSize : 30,
     marginBottom : 20
   }
 });
